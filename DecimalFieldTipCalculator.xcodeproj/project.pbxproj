@@ -13,6 +13,8 @@
 		C636426D238AC9AD00A3D12A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C636426C238AC9AD00A3D12A /* Assets.xcassets */; };
 		C6364270238AC9AD00A3D12A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C636426F238AC9AD00A3D12A /* Preview Assets.xcassets */; };
 		C6364273238AC9AD00A3D12A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6364271238AC9AD00A3D12A /* LaunchScreen.storyboard */; };
+		C69010382392E9E00098923E /* SwiftUI+Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69010372392E9E00098923E /* SwiftUI+Extentions.swift */; };
+		C690103B2392EBF90098923E /* DecimalField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C690103A2392EBF90098923E /* DecimalField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,9 @@
 		C636426F238AC9AD00A3D12A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C6364272238AC9AD00A3D12A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6364274238AC9AD00A3D12A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C69010372392E9E00098923E /* SwiftUI+Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftUI+Extentions.swift"; sourceTree = "<group>"; };
+		C69010392392EAA20098923E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C690103A2392EBF90098923E /* DecimalField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecimalField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +64,9 @@
 				C6364266238AC9AB00A3D12A /* AppDelegate.swift */,
 				C6364268238AC9AB00A3D12A /* SceneDelegate.swift */,
 				C636426A238AC9AB00A3D12A /* ContentView.swift */,
+				C69010372392E9E00098923E /* SwiftUI+Extentions.swift */,
+				C690103A2392EBF90098923E /* DecimalField.swift */,
+				C69010392392EAA20098923E /* README.md */,
 				C636426C238AC9AD00A3D12A /* Assets.xcassets */,
 				C6364271238AC9AD00A3D12A /* LaunchScreen.storyboard */,
 				C6364274238AC9AD00A3D12A /* Info.plist */,
@@ -148,7 +156,9 @@
 			files = (
 				C6364267238AC9AB00A3D12A /* AppDelegate.swift in Sources */,
 				C6364269238AC9AB00A3D12A /* SceneDelegate.swift in Sources */,
+				C690103B2392EBF90098923E /* DecimalField.swift in Sources */,
 				C636426B238AC9AB00A3D12A /* ContentView.swift in Sources */,
+				C69010382392E9E00098923E /* SwiftUI+Extentions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
