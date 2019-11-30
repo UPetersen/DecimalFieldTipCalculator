@@ -1,4 +1,4 @@
-# DecimalFieldTipCalculator
+# SwiftUI TipCalculator using decimal textfield
 
 
 Tip Calulator using DecimalField, see [https://github.com/edw/swiftui-numberfield](https://github.com/edw/swiftui-numberfield)
